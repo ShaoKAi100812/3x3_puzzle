@@ -1,2 +1,2 @@
 # 9x9_puzzle
-determine two puzzles are match or not
+determine two puzzles are matched or not
